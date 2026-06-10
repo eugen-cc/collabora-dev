@@ -50,3 +50,6 @@ assets/noto-sans/
 assets/roboto/
 assets/tabler-icons/
 assets/kolibri.ico
+
+# Maven
+target/
